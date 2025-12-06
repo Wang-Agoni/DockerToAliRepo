@@ -22,3 +22,4 @@ ghcr.io/outlovecn/portainer-cn:main
 registry.k8s.io/e2e-test-images/busybox:1.29-4
 docker.io/bladex/sentinel-dashboard:latest
 docker.io/seataio/seata-server:2.0.0
+docker.io/elasticsearch:7.12.1
