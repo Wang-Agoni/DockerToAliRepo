@@ -31,3 +31,4 @@ docker.io/minio/minio:RELEASE.2022-09-17T00-09-45Z
 docker.io/gogs/gogs:latest
 docker.io/zookeeper:3.8.4
 docker.io/wurstmeister/kafka:2.13-2.8.1
+docker.io/alphacep/kaldi-cn:latest
